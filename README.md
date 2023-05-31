@@ -1,1 +1,4 @@
-# GS1_Python
+#Ana
+#Bianca
+#Gabriel
+#Hellen
