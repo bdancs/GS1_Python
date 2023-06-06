@@ -7,6 +7,9 @@ COMPUTACIONAL THINKING WITH PYHON
 4. Hellen Ramos Gonçalves Assis 		RM98284
 
 
+LINK PARA O VÍDEO:
+https://youtu.be/6-CKcoNSYJE
+
 
 
 
