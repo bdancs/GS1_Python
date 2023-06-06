@@ -1,4 +1,0 @@
-#Ana
-#Bianca
-#Gabriel
-#Hellen
